@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Projeto 1</string>
+    <string name="login">LOGIN</string>
+    <string name="text_cadastro">NÃO TENHO CADASTRO</string>
+</resources>
